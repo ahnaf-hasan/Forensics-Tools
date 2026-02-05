@@ -375,7 +375,7 @@ A list of free and open source forensics analysis tools and other resources.
 - [SANS Digital Forensics Posters](https://digital-forensics.sans.org/community/posters) - Digital Forensics Posters from SANS
 - [SANS WhitePapers](https://digital-forensics.sans.org/community/whitepapers) - White Papers written by forensic practitioners seeking GCFA, GCFE, and GREM Gold
 
-## Related  Lists
+## Related  List
 
 - [Android Security](https://github.com/ashishb/android-security-awesome)
 - [AppSec](https://github.com/paragonie/awesome-appsec)
