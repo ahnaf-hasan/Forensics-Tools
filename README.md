@@ -1,6 +1,6 @@
 ## Digital Forensics in Cyber Security 
 
-![](https://raw.githubusercontent.com/ahnaf-hasan/Forensics-Tools/master/FORENSICS%20TOOLS.png)
+![](https://raw.githubusercontent.com/ahnaf-hasan/Forensics-Tools/master/FORENSICS%50TOOLS.png)
 
 
 
@@ -60,11 +60,9 @@ Cyber crime investigation সহজ করে |
 Organization এর security আরও শক্তিশালী করে 🔐|
 
 
+## Example 
 
-
-
-
-
+When a system is compromised or a social media platform is hacked such as through malware infection, phishing attacks, credential theft, or other cyber threats Digital Forensics plays a crucial investigative role. The process begins with incident identification, where it is determined whether a security breach has occurred, when it started, and what type of attack took place. Next, during the evidence preservation phase, the affected server or device is isolated, and disk images, memory dumps, and various log files are collected to ensure that critical evidence is not altered or destroyed. Forensic analysts then examine this evidence by analyzing login activities, IP addresses, abnormal network traffic, and administrative actions to understand how the attacker gained access and which accounts or data were compromised. In cases of malware attacks, malicious files are analyzed, while phishing attacks involve examining fake emails, malicious links, and email headers. Based on these findings, a complete attack timeline is constructed, and the impact of the data breach is assessed. For example, if multiple user accounts on a social media platform are hijacked through phishing emails, Digital Forensics can identify the compromised accounts, the source of the attack, and the leaked data, supporting legal investigations and helping improve future security measures.
 
 
 # Forensics Tools List
