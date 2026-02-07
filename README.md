@@ -1,6 +1,6 @@
 ## Digital Forensics in Cyber Security 
 
-![](https://raw.githubusercontent.com/ahnaf-hasan/Forensics-Tools/master/FORENSICS%50TOOLS.png)
+![](https://raw.githubusercontent.com/ahnaf-hasan/Forensics-Tools/master/FORENSICS%20TOOLS.png)
 
 
 
