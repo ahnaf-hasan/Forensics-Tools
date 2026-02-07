@@ -1,8 +1,10 @@
+## Digital Forensics in Cyber Security 
+
 ![](https://raw.githubusercontent.com/ahnaf-hasan/Forensics-Tools/master/FORENSICS%20TOOLS.png)
 
 
 
-## 🔍 Digital Forensics in Cyber Security
+## 🔍 Digital Forensics
 
 Digital Forensics হলো Cyber Security-এর সেই শাখা যেখানে
 ডিজিটাল প্রমাণ (digital evidence) খুঁজে বের করা, সংরক্ষণ করা, বিশ্লেষণ করা এবং রিপোর্ট করা হয় 🕵️‍♂️💻|
@@ -56,6 +58,13 @@ Log files, deleted files, malware behavior বিশ্লেষণ করা |
 Cyber crime investigation সহজ করে |
 
 Organization এর security আরও শক্তিশালী করে 🔐|
+
+
+
+
+
+
+
 
 
 # Forensics Tools List
