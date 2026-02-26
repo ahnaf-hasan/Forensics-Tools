@@ -1,4 +1,4 @@
-## Digital Forensics in Cyber Security and Importance
+## Digital Forensics in Cyber Security and Importance of Digital Forensics
 
 ![](https://raw.githubusercontent.com/ahnaf-hasan/Forensics-Tools/master/FORENSICS%20TOOLS.png)
 
